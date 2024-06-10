@@ -42,11 +42,12 @@ The game counts and displays the number of moves in the terminal.
 
 Maps are defined with the following characters:
 
-0 for empty space
-1 for walls
-C for collectibles
-E for exit
-P for player's starting position
+- 0 for empty space
+- 1 for walls
+- C for collectibles
+- E for exit
+- P for player's starting position
+
 Maps should be rectangular and enclosed by walls. A valid path from the player to the exit must exist.
 
 ##  Features
