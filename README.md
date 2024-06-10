@@ -55,7 +55,6 @@ Maps should be rectangular and enclosed by walls.
 ##  Features
 
 Simple collision detection.
-Count and display the number of moves.
 Smooth window management and exit.
 
 ##  Contributors
