@@ -48,7 +48,9 @@ Maps are defined with the following characters:
 - E for exit
 - P for player's starting position
 
-Maps should be rectangular and enclosed by walls. A valid path from the player to the exit must exist.
+Maps should be rectangular and enclosed by walls. 
+
+### A valid path from the player to the exit must exist !
 
 ##  Features
 
